@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+D:\ProjektiOtvoreni\Watchdog\hw\Project Outputs for HardwareWatchdog\Pick Place for DE-130624.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/06/24
+Time:       19:42
+Revision:   0
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                      
+P4         TRIGGER       TopLayer TERMINAL_BLOK_2  189.646       985.000       180      Terminal blok konektor 3,5 mm    
+P3         RELAY OUT     TopLayer TERMINAL_BLOK_3  1390.000      330.000       180      3 pinski terminal blok konektor  
+P2         POWER OUT     TopLayer TERMINAL_BLOK_2  1389.646      888.425       0        Terminal blok konektor 3,5 mm    
+P1         POWER IN      TopLayer TERMINAL_BLOK_2  1394.646      1328.425      180      Terminal blok konektor 3,5 mm    
+K1         FINDER  40.31 TopLayer FINDER_40.31     617.362       311.378       360                                       
+U1         NE555DR       TopLayer FP-D0008A-IPC_B  819.646       990.000       90       IC OSC SGL TIMER 100KHZ 8-SOIC   
+C1         0.1 µF        TopLayer CAP_0603_1608    676.221       1190.000      180      CAP CER 0.1UF 50V X7R 0603       
+C2         10 µF         TopLayer CAP_0805_2012    704.646       785.000       360      CAP CER 10UF 35V X5R 0805        
+C3         10 nF         TopLayer CAP_0603_1608    664.646       903.425       90       CAP CER 0603 10NF 100V X7R       
+D1         Green         TopLayer 1.6X0.8X0.8      1154.646      1240.000      270      LED GREEN CLEAR SMD              
+D2         MMBD4148W-7-F TopLayer DIODES_SOT-323-3 709.646       685.000       360      DIODE GEN PURP 75V 150MA SOT323  
+D3         Red           TopLayer 1.6X0.8X0.8      1154.646      970.000       90       LED RED CLEAR SMD                
+D4         LTV-817S-TA   TopLayer LITEON_LTV-817   499.646       985.000       90       OPTOISOLATR 5KV TRANSISTOR 4-SMD 
+IC1        DMP3056L-7    TopLayer DIODES_SOT-23-3  1014.646      775.000       270      MOSFET P-CH 30V 4.3A SOT23       
+IC2        2N7002AQ-7    TopLayer DIODES_SOT-23-3  1014.646      1054.449      90       MOSFET N-CH 60V 180MA SOT23      
+IC3        2N7002AQ-7    TopLayer DIODES_SOT-23-3  812.244       1305.630      270      MOSFET N-CH 60V 180MA SOT23      
+R1         4.7 kOhms     TopLayer RES_0805_2012    1154.646      1440.000      90       RES 4.7K OHM 1% 1/4W 0805        
+R2         270 kOhms     TopLayer RES_0805_2012    664.646       1070.000      90       RES SMD 270K OHM 1% 1/8W 0805    
+R3         47 kOhms      TopLayer RES_0805_2012    1014.646      905.000       180      RES SMD 47K OHM 1% 1/8W 0805     
+R4         4.7 kOhms     TopLayer RES_0805_2012    1154.646      775.000       270      RES 4.7K OHM 1% 1/4W 0805        
+R5         820 kOhms     TopLayer RES_0805_2012    814.646       1190.000      180      RES SMD 820K OHM 1% 1/8W 0805    
+R6         330 Ohms      TopLayer RES_0805_2012    119.094       720.000       0        RES 1K OHM 1% 1/8W 0805          
+R7         10 kOhms      TopLayer RES_0805_2012    549.646       1305.000      270      RES SMD 10K OHM 1% 1/8W 0805     
+R8         10 kOhms      TopLayer RES_0805_2012    814.646       1425.000      0        RES SMD 27K OHM 1% 1/8W 0805     
+D5         Red           TopLayer 1.6X0.8X0.8      284.646       720.000       0        LED RED CLEAR SMD                

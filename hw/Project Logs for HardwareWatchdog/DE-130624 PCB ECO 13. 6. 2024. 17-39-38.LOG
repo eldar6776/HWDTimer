@@ -1,0 +1,29 @@
+Added Component: Designator=K1(FINDER 40.31)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(TERMINAL BLOK 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(TERMINAL BLOK 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(TERMINAL BLOK 3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(TERMINAL BLOK 2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD2_2 Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Pin To Net: NetName=NetC1_2 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetD2_2 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetK1_3 Pin=P3-1
+Added Pin To Net: NetName=NetK1_5 Pin=P3-2
+Added Pin To Net: NetName=NetK1_4 Pin=P3-3
+Added Pin To Net: NetName=NetD4_2 Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Member To Class: ClassName=DE-130624 Member=Component K1 FINDER  40.31
+Added Member To Class: ClassName=DE-130624 Member=Component P1 POWER IN
+Added Member To Class: ClassName=DE-130624 Member=Component P2 POWER OUT
+Added Member To Class: ClassName=DE-130624 Member=Component P3 RELAY OUT
+Added Member To Class: ClassName=DE-130624 Member=Component P4 TRIGGER

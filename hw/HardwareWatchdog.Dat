@@ -1,0 +1,22 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~HardwareWatchdog.PrjPcb|ReportField=ProjectFullPath~D:\ProjektiOtvoreni\Watchdog\hw\HardwareWatchdog.PrjPcb|ReportField=Title~Bill of Materials For Project [HardwareWatchdog.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~25|ReportField=ReportTime~19:40:14|ReportField=ReportDate~29. 6. 2024.|ReportField=ReportDateTime~29. 6. 2024. 19:40:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~29. 6. 2024.|ReportField=CurrentTime~19:40:12|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\ProjektiOtvoreni\Watchdog\hw\DE-130624.SchDoc|ReportField=DocumentName~DE-130624.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~29. 6. 2024.|ReportField=Organization~|ReportField=ProjectName~HardwareWatchdog.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~HardwareWatchdog.PrjPcb|ReportField=DataSourceFullPath~D:\ProjektiOtvoreni\Watchdog\hw\HardwareWatchdog.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|0.1 µF|CAP CER 0.1UF 50V X7R 0603|C1|CAP 0603_1608|1|0.1 µF
+2|10 µF|CAP CER 10UF 35V X5R 0805|C2|CAP 0805_2012|1|10 µF
+3|10 nF|CAP CER 0603 10NF 100V X7R|C3|CAP 0603_1608|1|10 nF
+4|Green|LED GREEN CLEAR SMD|D1|1.6X0.8X0.8|1|Green
+5|MMBD4148W-7-F|DIODE GEN PURP 75V 150MA SOT323|D2|DIODES SOT-323-3|1|
+6|Red|LED RED CLEAR SMD|D3, D5|1.6X0.8X0.8|2|Red
+7|LTV-817S-TA|OPTOISOLATR 5KV TRANSISTOR 4-SMD|D4|LITEON LTV-817|1|
+8|DMP3056L-7|MOSFET P-CH 30V 4.3A SOT23|IC1|DIODES SOT-23-3|1|
+9|2N7002AQ-7|MOSFET N-CH 60V 180MA SOT23|IC2, IC3|DIODES SOT-23-3|2|
+10|FINDER  40.31||K1|FINDER 40.31|1|
+11|POWER IN|Terminal blok konektor 3,5 mm|P1|TERMINAL BLOK 2|1|
+12|POWER OUT|Terminal blok konektor 3,5 mm|P2|TERMINAL BLOK 2|1|
+13|RELAY OUT|3 pinski terminal blok konektor|P3|TERMINAL BLOK 3|1|
+14|TRIGGER|Terminal blok konektor 3,5 mm|P4|TERMINAL BLOK 2|1|
+15|4.7 kOhms|RES 4.7K OHM 1% 1/4W 0805|R1, R4|RES 0805_2012|2|4.7 kOhms
+16|270 kOhms|RES SMD 270K OHM 1% 1/8W 0805|R2|RES 0805_2012|1|270 kOhms
+17|47 kOhms|RES SMD 47K OHM 1% 1/8W 0805|R3|RES 0805_2012|1|47 kOhms
+18|820 kOhms|RES SMD 820K OHM 1% 1/8W 0805|R5|RES 0805_2012|1|820 kOhms
+19|330 Ohms|RES 1K OHM 1% 1/8W 0805|R6|RES 0805_2012|1|330 Ohms
+20|10 kOhms|RES SMD 10K OHM 1% 1/8W 0805, RES SMD 27K OHM 1% 1/8W 0805|R7, R8|RES 0805_2012|2|10 kOhms
+21|NE555DR|IC OSC SGL TIMER 100KHZ 8-SOIC|U1|FP-D0008A-IPC_B|1|
